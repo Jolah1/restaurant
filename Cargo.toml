@@ -8,6 +8,6 @@ license = "MIT OR Apache-2.0"
 repository = "https://github.com/jolah1/restaurant"
 readme = "README.md"
 keywords = ["example", "rust", "library"]
-categories = ["development-tools", "education"]
+categories = ["development-tools"]
 
 [dependencies]
